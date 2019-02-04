@@ -1,0 +1,1 @@
+start C:\Users\ddouglas\AppData\Local\Programs\Python\Python37-32\Emma-Groups\myemmaGroups.py
